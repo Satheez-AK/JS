@@ -1,0 +1,4 @@
+ str = ["apple","banana","van"];
+ for(i=0; i<str.length; i++){
+ alert(str[i].toUpperCase());
+ }
